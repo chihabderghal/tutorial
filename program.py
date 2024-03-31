@@ -1,3 +1,7 @@
+def Italan():
+    print("Ciao mondo")
+
+
 def Spanish():
     print("Hola, mundo")
 
@@ -14,6 +18,7 @@ def main():
     English()
     French()
     Spanish()
+    Italian()
 
 
 if __name__ == "__main__":
