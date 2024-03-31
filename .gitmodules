@@ -1,0 +1,3 @@
+[submodule "git-tutorial"]
+	path = git-tutorial
+	url = git@github.com:chihabderghal/git-tutorial.git
