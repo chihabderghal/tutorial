@@ -1,3 +1,7 @@
+def Japanese():
+    print("Kon'nichiwa sekai")
+
+
 def Italan():
     print("Ciao mondo")
 
@@ -19,6 +23,7 @@ def main():
     French()
     Spanish()
     Italian()
+    Japanese()
 
 
 if __name__ == "__main__":
